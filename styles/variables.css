@@ -1,0 +1,35 @@
+:root {
+  --white: #fff;
+
+  --black: #000000;
+
+  --dark-gray: #2f3d47;
+
+  --blue: #002d96;
+
+  --gray: #ccd5ea;
+
+  --light-blue: #f3f5fa;
+
+  --red: #ff0000;
+
+  --dark-gray-two: #696969;
+
+  --turkish-blue: #49b6d0;
+
+  --silver-gray: #c0c0c0;
+
+  --dark-grey-graphite: #303030;
+
+  --anthracite: #545454;
+
+  --animation: all 0.3s ease-in-out;
+  --scale: scale(1.08);
+  --opacity: 0.8;
+
+  --zindex0: -1;
+  --zindex1: 1;
+  --zindex5: 5;
+  --zindex20: 20;
+  --zindex50: 50;
+}
