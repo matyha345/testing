@@ -1033,7 +1033,7 @@ body {
   }
 
   .cards__arrows {
-    width: 40px;
+    /* width: 40px; */
     top: 0;
     left: 0;
   }
@@ -1131,7 +1131,7 @@ body {
 
   .cards__next {
     top: 10px;
-    left: 78%;
+    left: 80%;
   }
 
   .cards__prev {
@@ -1163,7 +1163,7 @@ body {
 
 @media (max-width: 400px) {
   .cards__inner-left {
-    left: 51%;
+    left: 54%;
   }
 
   .cards__prev{
